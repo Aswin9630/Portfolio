@@ -32,7 +32,7 @@ const Navbar = () => {
   return (
     <div className='fixed z-50 bg-gradient-to-b from-gray-700 to-black h-20 text-white items-center w-full flex justify-between'>
         <div>
-            <h1 className='font-bold text-4xl ml-4 hover:scale-95 hover:rotate-2 hover:duration:500 cursor-pointer animate-bounce'>Aswin Krishna</h1>
+            <h1 className='font-bold text-4xl ml-4 hover:scale-95 hover:rotate-2 hover:duration:500 cursor-pointer animate-bounce uppercase'>Aswin Krishna</h1>
         </div>
 
         <ul className='hidden md:flex mr-10'> 

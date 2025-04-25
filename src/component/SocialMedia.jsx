@@ -33,7 +33,7 @@ const SocialMedia = () => {
         Resume <PiReadCvLogoFill size={30}/>
     </>
       ),
-      href:"./resume.pdf",
+      href:"./cv.pdf",
       download:true,
       style:"rounded-br-md"
     },

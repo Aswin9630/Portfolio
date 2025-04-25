@@ -141,7 +141,7 @@ const About = () => {
             <a
               target="_blank"
               download={true}
-              href="../resume.pdf"
+              href="../cv.pdf"
               className="hover:rotate-y-180"
             >
               <PiReadCvLogoFill size={25} />

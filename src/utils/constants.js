@@ -14,6 +14,7 @@ import jwt_img from "../assets/skills/jwt.png"
 import firebase_img from "../assets/skills/firebase.png"
 import razorpay_img from "../assets/skills/razorpay.png"
 import express_img from "../assets/skills/express.png"
+import ts_img from "../assets/skills/ts.png"
 
 export const EMAIL_ID="aswinkrishna005@gmail.com"
 
@@ -23,9 +24,15 @@ export const GITHUB_URL="https://github.com/Aswin9630";
 
 export const TECHTRIBE="https://www.thetechtribe.xyz"
 
+export const NEXTSTAY="https://booking-y315.onrender.com/search"
+export const NEXTSTAY_CODE="https://github.com/Aswin9630/Booking"
+
+export const ECOMMERCE_STATIC="https://staticwebsite-60038224158.development.catalystserverless.in/app/"
+export const ECOMMERCE_STATIC_CODE="https://github.com/Aswin9630/Ecommerce-Static-"
+
 export const ECOMMERCE_CODE="https://github.com/Aswin9630/E-commerce"
 
-export const ECOMMERCE_LIVE="https://www.linkedin.com/feed/update/urn:li:activity:7264570821422002176/";
+export const ECOMMERCE_LIVE="https://youtu.be/Gb7fMiTWnes?feature=shared"
 
 export const BACKENDSKILLS = [
   {
@@ -126,6 +133,12 @@ export const FRONTENDSKILLS = [
     src:redux_img,
     name:"redux",
     color:"shadow-purple-900"
+  },
+  {
+    id:5,
+    src:ts_img,
+    name:"typescript",
+    color:"shadow-sky-500"
   }
 ]
 

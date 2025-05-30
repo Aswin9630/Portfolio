@@ -48,16 +48,16 @@ const Projects = () => {
   return (
     <div
       name="project"
-      className="mt-10 bg-gradient-to-b from-black to-gray-800 w-full min-h-screen md:h-screen"
+      className="bg-gradient-to-b from-black to-gray-800 w-full min-h-screen md:h-screen"
     >
       <div className="max-w-screen p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div>
-          <h2 className="text-center text-white font-bold font-sans text-4xl py-5">
+          <h2 className="mt-35 text-center text-white font-bold font-sans text-4xl py-5">
             Projects
           </h2>
         </div>
 
-        <div className="mt-15 grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-4 md:px-12">
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-4 md:px-12">
           {projects.map(({ id, src, name, liveLink, codeLink }) => (
             <div key={id} className="shadow-lg shadow-gray-600 rounded-xl">
               <p className="text-gray-400 capitalize font-normal p-2 m-2 text-center sm:h-14">

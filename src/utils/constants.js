@@ -24,7 +24,7 @@ export const GITHUB_URL="https://github.com/Aswin9630";
 
 export const TECHTRIBE="https://www.thetechtribe.xyz"
 
-export const NEXTSTAY="https://booking-y315.onrender.com/search"
+export const NEXTSTAY="https://booking-y315.onrender.com"
 export const NEXTSTAY_CODE="https://github.com/Aswin9630/Booking"
 
 export const ECOMMERCE_STATIC="https://staticwebsite-60038224158.development.catalystserverless.in/app/"

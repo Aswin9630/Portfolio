@@ -20,7 +20,7 @@ const Skills = () => {
   }
 
   return (
-    <div name="skills" className='min-h-screen w-full bg-gradient-to-b from-gray-800 to-black font-bold font-sans overflow-hidden'>
+    <div name="skills" className='mt-10 min-h-screen w-full bg-gradient-to-b from-gray-800 to-black font-bold font-sans overflow-hidden'>
       <div className='max-w-screen-lg flex flex-col p-4 mx-auto justify-center w-full h-full text-white'>
         <div>
           <p className='text-4xl text-gray-200 text-center py-5 '>Skills</p>
